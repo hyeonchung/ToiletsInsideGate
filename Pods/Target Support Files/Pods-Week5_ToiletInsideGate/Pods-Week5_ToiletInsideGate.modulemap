@@ -1,0 +1,6 @@
+framework module Pods_Week5_ToiletInsideGate {
+  umbrella header "Pods-Week5_ToiletInsideGate-umbrella.h"
+
+  export *
+  module * { export * }
+}

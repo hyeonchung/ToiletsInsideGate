@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>736397589065-1fqhm5i6f2hsnl3ehvfvaa8koikcgpvh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.736397589065-1fqhm5i6f2hsnl3ehvfvaa8koikcgpvh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB10VSGPpxmzdvXt6ZCCAUDADt2PM1VtqE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>736397589065</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hyeon.ch.Week5-ToiletInsideGate</string>
+	<key>PROJECT_ID</key>
+	<string>toiletsinsidegate</string>
+	<key>STORAGE_BUCKET</key>
+	<string>toiletsinsidegate.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:736397589065:ios:9af1c31dc72f784d7edd98</string>
+</dict>
+</plist>
